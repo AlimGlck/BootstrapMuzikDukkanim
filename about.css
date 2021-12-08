@@ -1,0 +1,74 @@
+ html,body{
+    margin: 0px;
+    padding:0px;
+    background-color: #e9ecef;
+}
+
+nav{
+    background-color: black; 
+}
+
+menu{
+    background-color: black; 
+    margin-block-start:0px; 
+    margin-block-end: 0px; 
+}
+
+menu a:hover{
+    text-decoration: none;
+}
+
+.opacity:hover{
+    color: white; margin-left:10px;
+    opacity:1;
+}
+
+.fopacity{
+    opacity: 0.85;
+    font-size:20px; 
+    color:red
+}
+
+.fopacity:hover{
+    opacity:1;
+    font-size:20px ; 
+    color:red
+    
+}
+
+h1{
+    text-align: center;
+}
+
+h2{
+    color: goldenrod;
+}
+
+.opacity{
+    opacity:0.85;
+    color: white; 
+    margin-left:10px;
+    
+}
+
+.kopacity{
+    opacity:0.85;
+}
+
+.kopacity:hover{
+    opacity:1;
+}
+
+ .ropacity{
+    opacity: 0.85;
+    color: white; 
+    margin-left:10px;
+    
+    
+}
+
+.ropacity:hover{
+    opacity: 1;
+    color: white; 
+    margin-left:10px;
+}
